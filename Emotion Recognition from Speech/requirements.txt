@@ -1,0 +1,26 @@
+# Core numerical & data handling
+numpy>=1.26.0
+pandas>=2.2.0
+scikit-learn>=1.5.0
+scipy>=1.13.0
+
+# Speech signal processing & audio I/O
+librosa>=0.10.2
+soundfile>=0.12.1
+
+# Deep learning
+torch>=2.4.0
+torchaudio>=2.4.0
+
+# Visualization & progress
+matplotlib>=3.9.0
+seaborn>=0.13.2
+tqdm>=4.66.0
+
+# Interactive demo UI
+gradio>=4.44.0
+
+# Testing & notebooks
+pytest>=8.3.0
+jupyter>=1.1.0
+
